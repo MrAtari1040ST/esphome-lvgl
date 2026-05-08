@@ -1,6 +1,6 @@
 # ESP32-S3-Touch-LCD-7
 substitutions:
-  name: "Display Panel"
+  name: "display panel"
   friendly_name: "Display Panel"
   room: "Slaapkamer"
 # Wifi Setup
